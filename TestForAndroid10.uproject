@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{A29888B0-4DC4-EADF-C3D1-C7AEBC17CC4A}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "TestForAndroid10",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
